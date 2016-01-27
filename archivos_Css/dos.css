@@ -1,0 +1,34 @@
+div{
+		width: 250px;
+		height: 260px;
+		
+	}
+	div{
+    display:block;
+}
+	#uno{
+		padding-bottom: 10px; 
+		padding-bottom:10px;
+		padding-left:15px;
+		border: 3px solid red;
+		margin-bottom: 10px;
+
+	}
+	#dos{
+		
+		padding-bottom: 10px; 
+		padding-bottom:10px;
+		padding-left:15px;
+		border: 3px solid red;
+
+		
+
+	}
+	#tres{
+		margin-top:10px;
+		padding-bottom: 10px; 
+		padding-bottom:10px;
+		padding-left:15px;
+		border: 3px solid red;
+
+	}
